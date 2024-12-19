@@ -1,10 +1,6 @@
 # Solar System
 
-Live: [Solar System](https://solar-system-v2.vercel.app/)
-
-This version is a futher development of the original project:
-[Live: systems solor]([https://solar-system-v1-eosin.vercel.app](https://systems-solar.netlify.app/))
-[Repo: solarsystem](https://github.com/hNnicolas/solarsystem)
+Live: [Solar System](https://solar-system-v1-eosin.vercel.app](https://systems-solar.netlify.app/))
 
 ## Assets
 
